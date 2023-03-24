@@ -11,4 +11,4 @@ L'objectif était de :
 Nous avons donc mis en place un Quiz pour la partie stratégie RSE 
 Une charte graphique, un Wireframe, un maqettage et ensuite un prototype.
 
-J'ai enlevé tout signe qui pourrait identifier l'entreprise, n'ayant pas de réponse si je pouvais le publier
+J'ai supprimé tout signe qui pourrait identifier l'entreprise, n'ayant pas de réponse pour le publier
