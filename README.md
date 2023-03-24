@@ -8,7 +8,7 @@ L'objectif était de :
 - revoir le site internet en ajoutant de la nouveauté
 - se concentrer sur les réseaux de l'entreprise car elle n'avait pas de réseau pour se faire connaître.
 
-Nous avons donc mis en place un Quiz pour la partie stratégie RSE 
+Nous avons donc mis en place une étude de marché complète, un Quiz pour la partie stratégie RSE 
 Une charte graphique, un Wireframe, un maqettage et ensuite un prototype.
 
 J'ai supprimé tout signe qui pourrait identifier l'entreprise, n'ayant pas de réponse pour le publier
