@@ -12,3 +12,6 @@ Nous avons donc mis en place un Quiz pour la partie stratégie RSE
 Une charte graphique, un Wireframe, un maqettage et ensuite un prototype.
 
 J'ai supprimé tout signe qui pourrait identifier l'entreprise, n'ayant pas de réponse pour le publier
+
+
+En collaboration avec https://github.com/Leonardo-VERA
