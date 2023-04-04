@@ -76,5 +76,3 @@ Capture d'écran ou vidéo de démonstration (facultatif)
 ![Prototype 2](https://user-images.githubusercontent.com/127758483/229437205-1339b072-f060-48a5-977e-978704e295c0.jpg)
 ![Prototype 3](https://user-images.githubusercontent.com/127758483/229437226-74fe69ff-f45a-4769-9cd9-f6fbdae140fe.jpg)
 
-
-**Problématique :**
