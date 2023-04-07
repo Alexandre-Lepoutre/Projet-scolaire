@@ -51,7 +51,7 @@ Ce sera une application qui permettra d'identifier le textile avec une photo et 
 
 Bien évidemment, les données fournis ont été au préalable rentrées dans la base de données.
 
-
+L'intelligence artificielle aura comme rôle d'alimenter la base de données en rajoutant des compléments de réponse selon comment a été prise la photo (l'angle,etc.) ainsi qu'avec le code barre pour mieux l'identifier
 
 
 
