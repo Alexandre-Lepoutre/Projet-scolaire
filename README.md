@@ -37,7 +37,7 @@ Nous allons utiliser divers outils, logiciels lors de la conception de ce projet
 
 
 Ensuite, nous allons faire de l'extraction de données via Python/R pour un rendu visuel différent et plus qualitatif
-Cette application servira de point de rencontre entre le produit et la mise à disposition des données libres de droit avec le scrapping de données.
+Cette application servira de point de rencontre entre le produit et la mise à disposition des données libres de droit avec le scraping de données.
 
 **Introduction :**
 
