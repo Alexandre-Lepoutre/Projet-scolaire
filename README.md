@@ -28,7 +28,7 @@ Réalisation d'un projet lié au thème "Ethic Fashion"
 
 Le monde dans lequel nous vivons est un monde de paraître. On vous explique, la mode de maintenant s'en fiche du bien-être animal, du bien-être de l'environnement tout court, ce qu'elle cherche, c'est un rendu final de l'œuvre et de la portée.
 
-Nous sommes aveuglés par la beauté du textile Fashion dès qu'il est question de ressembler à une personnalité publique, nous sommes obnubilé quand nous nous rendons compte du rendu final sur notre personne, une fois l'achat d'un produit quelconque, cela avantage notre cercle social et peut nous ouvrir des portes concernant l'idée qu'une personne extérieure puisse nous donner.
+Nous sommes aveuglés par la beauté du textile Fashion dès qu'il est question de ressembler à une personnalité publique, nous sommes obnubilés quand nous nous rendons compte du rendu final sur notre personne, une fois l'achat d'un produit quelconque, cela avantage notre cercle social et peut nous ouvrir des portes concernant l'idée qu'une personne extérieure puisse nous donner.
 
 
 Nous avons eu l'idée de créer une application qui permettra d'identifier plusieurs points qui caractérisaient le produit quelconque.
